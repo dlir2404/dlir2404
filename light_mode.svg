@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="985" height="440" viewBox="0 0 985 440" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16px">
+<style>
+.text{fill:#24292f} .key{fill:#953800} .value{fill:#0a3069} .dots{fill:#c2cfde}
+text,tspan{white-space:pre}
+</style>
+<rect width="985" height="440" rx="15" fill="#f6f8fa"/>
+<text class="text" font-size="26px" xml:space="preserve">
+<tspan x="10.5" y="30.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⡀⣆⠢⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="10.5" y="50.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠠⡰⣸⢺⣪⡯⠄⡀⡄⡄⡆⡆⢎⢆⡣⡱⡱⡩⡪⡊⡲⡰⡐⡄⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="10.5" y="70.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠈⢘⢸⢜⡯⢓⢐⢌⢜⢜⡼⣕⢕⠕⣕⢕⢕⢕⢕⢕⢕⢕⢵⢱⢱⢡⣣⢢⢀⠠⣔⢔⡀⡀⠀⠀</tspan>
+<tspan x="10.5" y="90.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠨⢋⢔⢕⢜⡜⣜⢬⢮⢮⢲⣵⡳⣕⢵⡱⡕⡇⡧⡓⡕⡇⡗⡝⡎⣎⠮⣒⢌⢣⡣⣀⠀⠀</tspan>
+<tspan x="10.5" y="110.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⡪⡮⡮⣳⢽⢮⣯⠯⠛⠉⠀⣺⣕⢧⣫⡺⣜⢮⣺⣪⣺⢜⢪⡣⣣⡫⡲⡱⡢⠹⣇⢇⢂</tspan>
+<tspan x="10.5" y="130.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⢠⢵⠻⣜⣮⡯⠋⠁⠀⠀⠀⢰⣟⡾⣱⢵⢹⡪⣣⡳⣳⡽⠃⡹⡜⡎⡞⡜⣎⢎⢇⢵⡝⡔</tspan>
+<tspan x="10.5" y="150.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⢰⡟⠁⣸⡿⠓⠒⠒⠲⠤⣀⢠⣿⢵⡫⣞⢽⢵⢕⡷⠟⠁⠀⢀⡾⣝⣞⠽⠺⣜⣕⢇⢪⢾⢝</tspan>
+<tspan x="10.5" y="170.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⢀⡏⣠⠴⠛⠛⠛⠛⠛⠒⢶⣼⢯⢯⣳⢽⣺⡽⠟⠉⠈⠀⠀⠀⣾⣝⣗⣁⣀⠀⢗⣎⢏⢎⡞⣎</tspan>
+<tspan x="10.5" y="190.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠜⣹⠀⣠⠤⣤⣤⣤⣀⣀⠋⠙⠙⢿⡉⠉⠀⠀⠀⠀⢀⣤⡴⠴⠯⢤⣤⣄⣀⠉⢿⡸⡮⣒⡯⣪</tspan>
+<tspan x="10.5" y="210.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠐⢷⠈⢠⠚⠛⠻⣿⡿⢦⡙⢢⡀⢸⡇⠀⠀⠀⠀⣰⠋⠀⢀⣀⡀⡀⠀⠀⠉⠙⣷⡓⢽⠂⠹⣗</tspan>
+<tspan x="10.5" y="230.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠈⠃⢸⠀⠀⠀⡿⢁⡼⡇⠀⠃⢸⠶⠦⣦⣤⣠⠇⠔⢉⡥⠶⢿⣿⣿⣗⠢⡔⠃⢹⠸⠁⠀⢻</tspan>
+<tspan x="10.5" y="250.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠘⣆⠠⣴⢁⢊⣴⠃⠀⠀⡾⠀⠀⠀⠀⢸⠈⢀⡏⠀⠀⠀⢹⠟⣨⡇⠸⢀⣞⠈⠀⠀⠀</tspan>
+<tspan x="10.5" y="270.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠲⠷⠚⠁⠀⢀⡼⠁⠀⠀⠀⠀⢸⠀⠸⡇⢀⣀⡄⣡⢞⡵⠁⠡⠋⠀⠀⠀⠀⠀</tspan>
+<tspan x="10.5" y="290.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠒⠠⠤⠒⠒⠉⠀⠀⠀⠀⠀⠀⠈⢇⠀⠙⠦⠭⡬⠴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="10.5" y="310.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⢀⠀⡀⣴⣶⣤⣀⠀⠠⠤⡄⡠⡀⠀⠀⠀⡠⠬⢳⣀⠈⠐⠠⠀⠀⣠⣴⡷⣄⠄⠀⠀⠀⠀⠀</tspan>
+<tspan x="10.5" y="330.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⢀⣔⣼⣾⢿⣻⡿⣻⣿⣶⡦⣦⣄⣈⡙⡑⡒⠦⠤⡄⠶⡨⠻⣿⣶⣶⣿⣿⣿⣽⣺⣹⣶⡆⡀⠀⠀</tspan>
+<tspan x="10.5" y="350.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⠀⣜⢾⣽⣟⣾⢿⣯⡷⣝⣿⣿⣶⣿⣿⡇⠈⠩⠊⠊⠈⢀⠃⠆⠄⢹⣿⣿⣿⣿⣿⣿⣾⣿⡿⣏⣪⣀⠀</tspan>
+<tspan x="10.5" y="370.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⠀⢸⣗⣟⣯⣿⣾⣻⣽⡿⣸⣼⣞⣿⣿⣿⣿⠓⠑⠀⠂⠐⡐⡐⡈⠄⠀⢻⡿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣮⢦</tspan>
+<tspan x="10.5" y="390.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⢰⣹⣿⣿⢽⣿⢾⣯⡿⣿⣫⡺⣿⣿⡿⣿⣿⠃⠀⠂⠀⠔⢐⠐⠠⡁⠁⢄⣿⡝⣿⣿⣿⣿⣿⣿⣟⢾⣻⣗</tspan>
+<tspan x="10.5" y="410.0" textLength="384.0" lengthAdjust="spacingAndGlyphs">⣾⡾⣿⣿⣽⣻⣟⣷⡿⣿⣷⢹⣿⣿⣿⡟⠻⢷⣦⣄⡀⠨⠠⡨⣨⣂⣥⣾⣿⣟⣮⣞⢭⠻⣿⣿⣿⢿⣿⢿</tspan>
+</text>
+<text x="420" y="30" class="text" xml:space="preserve">
+<tspan x="420" y="30"><tspan class="text">dlir2404@github </tspan><tspan class="dots">————————————————————————————————————————</tspan></tspan>
+<tspan x="420" y="50"><tspan class="dots">. </tspan><tspan class="key">Experience:</tspan><tspan class="dots"> ........................ </tspan><tspan class="value">3 years, 8 months</tspan></tspan>
+<tspan x="420" y="70"><tspan class="dots">. </tspan><tspan class="key">Location:</tspan><tspan class="dots"> ............................. </tspan><tspan class="value">Hanoi, Vietnam</tspan></tspan>
+<tspan x="420" y="90"><tspan class="dots">. </tspan><tspan class="key">Role:</tspan><tspan class="dots"> ........................... </tspan><tspan class="value">Full Stack Developer</tspan></tspan>
+<tspan x="420" y="110"><tspan class="dots">.</tspan></tspan>
+<tspan x="420" y="130"><tspan class="dots">. </tspan><tspan class="key">Languages.Code:</tspan><tspan class="dots"> ....... </tspan><tspan class="value">TypeScript, Python, JavaScript</tspan></tspan>
+<tspan x="420" y="150"><tspan class="dots">. </tspan><tspan class="key">Languages.Real:</tspan><tspan class="dots"> .................. </tspan><tspan class="value">Vietnamese, English</tspan></tspan>
+<tspan x="420" y="170"><tspan class="dots">.</tspan></tspan>
+<tspan x="420" y="190"><tspan class="dots">. </tspan><tspan class="key">Stack.Backend:</tspan><tspan class="dots"> ......... </tspan><tspan class="value">NestJS, Django, FastAPI, gRPC</tspan></tspan>
+<tspan x="420" y="210"><tspan class="dots">. </tspan><tspan class="key">Stack.Frontend:</tspan><tspan class="dots"> ............... </tspan><tspan class="value">React, Next.js, Vue.js</tspan></tspan>
+<tspan x="420" y="230"><tspan class="dots">. </tspan><tspan class="key">Stack.Data:</tspan><tspan class="dots"> .......... </tspan><tspan class="value">PostgreSQL, MySQL, Redis, Kafka</tspan></tspan>
+<tspan x="420" y="250"><tspan class="dots">. </tspan><tspan class="key">Stack.Infra:</tspan><tspan class="dots"> ...... </tspan><tspan class="value">Docker, Kubernetes, GitHub Actions</tspan></tspan>
+<tspan x="420" y="270"><tspan class="dots">. </tspan><tspan class="key">Interests:</tspan><tspan class="dots"> ..... </tspan><tspan class="value">AI agents, LLM evals, backend systems</tspan></tspan>
+<tspan x="420" y="290"><tspan class="dots">— </tspan><tspan class="text">Contact </tspan><tspan class="dots">——————————————————————————————————————————————</tspan></tspan>
+<tspan x="420" y="310"><tspan class="dots">. </tspan><tspan class="key">Email:</tspan><tspan class="dots"> ..................... </tspan><tspan class="value">dinhlinh.work24@gmail.com</tspan></tspan>
+<tspan x="420" y="330"><tspan class="dots">. </tspan><tspan class="key">Portfolio:</tspan><tspan class="dots"> ............................ </tspan><tspan class="value">larry.is-a.dev</tspan></tspan>
+<tspan x="420" y="350"><tspan class="dots">. </tspan><tspan class="key">LinkedIn:</tspan><tspan class="dots"> ................................ </tspan><tspan class="value">in/dlir2404</tspan></tspan>
+<tspan x="420" y="370"><tspan class="dots">— </tspan><tspan class="text">GitHub Stats </tspan><tspan class="dots">—————————————————————————————————————————</tspan></tspan>
+<tspan x="420" y="390"><tspan class="dots">. </tspan><tspan class="key">Repos:</tspan><tspan class="dots"> .................... </tspan><tspan class="value">49</tspan><tspan class="dots"> | </tspan><tspan class="key">Stars:</tspan><tspan class="dots"> ........... </tspan><tspan class="value">16</tspan></tspan>
+<tspan x="420" y="410"><tspan class="dots">. </tspan><tspan class="key">Contributions:</tspan><tspan class="dots"> ......... </tspan><tspan class="value">1,636</tspan><tspan class="dots"> | </tspan><tspan class="key">Followers:</tspan><tspan class="dots"> ........ </tspan><tspan class="value">2</tspan></tspan>
+</text>
+</svg>
